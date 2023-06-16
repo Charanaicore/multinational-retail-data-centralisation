@@ -130,8 +130,8 @@ class DataCleaning(object):
 
         stores_df = DataExtractor.extract_from_s3()
 
-        # function to be used to remove 'kg','g','ml','.' strings from dataframe
-        # and convert g and ml into kg where g = ml and kg = g/1000 kg = ml/1000
+        # function to be used to remove 'kg','g','ml','.' strings from dataframe,
+        # and convert g and ml into kg where g = ml and kg = g/1000 kg = ml/1000.
         def check_weight(x):
             # converts grams into kgs
             if 'kg' in x:
