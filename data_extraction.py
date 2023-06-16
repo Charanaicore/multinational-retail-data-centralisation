@@ -73,7 +73,7 @@ class DataExtractor(object):
         folder = link_segments[-2]
         file = link_segments[-1]
 
-        # Reads the file if it exists and runs boto3 client 
+        # Reads the file if it exists and runs boto3 client, 
         # and tries to download the file if doesn't exist.
         try:    
             products_csv = pd.read_csv(file)
