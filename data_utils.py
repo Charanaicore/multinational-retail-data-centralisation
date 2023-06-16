@@ -19,7 +19,7 @@ class DatabaseConnector():
     def init_db_engine(self):
         '''
         This function will read the credentials from the return of read_db_creds and initialise and 
-        return and sqlaclhemy databse engine.
+        return and sqlaclhemy databse engine..
         '''
         from sqlalchemy import create_engine
 
