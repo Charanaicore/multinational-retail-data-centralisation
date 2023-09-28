@@ -1,6 +1,6 @@
-*/
-/db_creds.yaml
-/sales_db_creds.yaml
-/products.csv
-/store_details.csv
-/various/
+.DS_Store
+__pycache__
+users.csv
+local_creds.yaml
+aws_creds.yaml
+.env
