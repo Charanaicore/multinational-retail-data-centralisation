@@ -1,0 +1,46 @@
+aiobotocore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b3e4znaej2/croot/aiobotocore_1680004294920/work
+aiohttp @ file:///Users/ec2-user/ci_py311/aiohttp_1678323186748/work
+aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+async-timeout @ file:///Users/ec2-user/ci_py311/async-timeout_1678320112070/work
+attrs @ file:///Users/ec2-user/ci_py311/attrs_1678315289647/work
+boto3 @ file:///Users/ec2-user/ci_py311_2/boto3_1679335351182/work
+botocore @ file:///Users/ec2-user/ci_py311/botocore_1678320133200/work
+Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
+brotlipy==0.7.0
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b64zphacdv/croot/certifi_1683875375103/work/certifi
+cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///Users/ec2-user/ci_py311/click_1678318124837/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d3qwb8u102/croot/cryptography_1686613065937/work
+distro @ file:///tmp/build/80754af9/distro_1610479853857/work
+frozenlist @ file:///Users/ec2-user/ci_py311/frozenlist_1678318685088/work
+fsspec @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d9zxascxg8/croot/fsspec_1679418997424/work
+greenlet @ file:///Users/ec2-user/ci_py311/greenlet_1678323340336/work
+idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
+mkl-fft==1.3.6
+mkl-random @ file:///Users/ec2-user/mkl/mkl_random_1682994911338/work
+mkl-service==2.4.0
+multidict @ file:///Users/ec2-user/ci_py311/multidict_1678318765630/work
+numexpr @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b50c1js9s/croot/numexpr_1683227065029/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_facv4mnp7u/croot/numpy_and_numpy_base_1687466217056/work
+pandas==1.5.3
+psycopg2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_98luv3o0hn/croot/psycopg2_1687443459133/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19gfn1ib_u/croot/pyopenssl_1678965300171/work
+PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv @ file:///Users/ec2-user/ci_py311/python-dotenv_1678319919985/work
+pytz @ file:///Users/ec2-user/ci_py311/pytz_1678318034461/work
+PyYAML @ file:///Users/ec2-user/ci_py311/pyyaml_1678324445670/work
+requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ec2sxfa_zk/croot/requests_1682607519671/work
+s3fs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3dy0qlp99f/croot/s3fs_1680018510125/work
+s3transfer @ file:///Users/ec2-user/ci_py311/s3transfer_1678324574832/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+SQLAlchemy @ file:///Users/ec2-user/ci_py311/sqlalchemy_1678379321154/work
+tabula-py @ file:///Users/ec2-user/ci_py311/tabula-py_1678423516872/work
+typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9cw7_jdp5v/croot/typing_extensions_1686601820966/work
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1968zekhce/croot/urllib3_1686163172153/work
+wrapt @ file:///Users/ec2-user/ci_py311/wrapt_1678323111850/work
+yarl @ file:///Users/ec2-user/ci_py311/yarl_1678323149735/work
