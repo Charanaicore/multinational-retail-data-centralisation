@@ -44,9 +44,9 @@ and DataExtractor classes will work on other sources of data with amendments to 
 ### SQLAlchemy
 [SQLAlchemy](https://www.sqlalchemy.org/) was used to connect to both the AWS and local SQL databases. In `database_utils.py`:
 
-#```python
+```python
 from sqlalchemy import create_engine, inspect
-```#
+```
 
 From the [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/20/tutorial/engine.html):
 
